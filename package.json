@@ -1,0 +1,34 @@
+{
+  "name": "chapter-one",
+  "displayName": "Chapter One",
+  "description": "A warm, sepia-toned light theme inspired by e-readers and typewriters. Features soft beige backgrounds and carefully chosen colors for optimal reading comfort.",
+  "version": "0.0.1",
+  "publisher": "nenets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chapter-one/chapter-one-theme"
+  },
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light theme",
+    "e-reader",
+    "sepia",
+    "typewriter"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chapter One",
+        "uiTheme": "vs",
+        "path": "./themes/Chapter One-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
