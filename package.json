@@ -1,15 +1,21 @@
 {
   "name": "chapter-one",
   "displayName": "Chapter One",
-  "description": "A warm, sepia-toned light theme inspired by e-readers and typewriters. Features soft beige backgrounds and carefully chosen colors for optimal reading comfort.",
-  "version": "0.0.1",
+  "description": "A sepia-toned light theme for Visual Studio Code",
+  "version": "0.0.3",
   "publisher": "nenets",
+  "icon": "images/chapter-one-logo.png",
+  "galleryBanner": {
+    "color": "#EAD7C4",
+    "theme": "light"
+  },
+  "preview": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/chapter-one/chapter-one-theme"
+    "url": "https://github.com/Netsbump/chapter-one"
   },
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"

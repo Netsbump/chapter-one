@@ -1,6 +1,6 @@
 # Chapter One Theme
 
-A carefully crafted VSCode theme that combines warm, earthy tones with excellent readability. Perfect for long coding sessions, this theme features thoughtfully selected colors that reduce eye strain while maintaining clear visual hierarchy.
+A sepia-toned light theme inspired by e-readers and typewriters. Features soft beige backgrounds and carefully chosen colors for optimal reading comfort.
 
 ## Features
 
