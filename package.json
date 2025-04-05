@@ -2,7 +2,7 @@
   "name": "chapter-one",
   "displayName": "Chapter One",
   "description": "A sepia-toned light theme for Visual Studio Code",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "nenets",
   "icon": "images/chapter-one-logo.png",
   "galleryBanner": {

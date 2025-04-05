@@ -22,7 +22,7 @@ Or install it from the [Visual Studio Code Marketplace](https://marketplace.visu
 
 ## Manual Installation
 ```bash
-code --install-extension chapter-one-0.0.1.vsix
+code --install-extension chapter-one-0.0.4.vsix
 ```
 
 ## Color Palette

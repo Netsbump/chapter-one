@@ -4,6 +4,12 @@ All notable changes to the "chapter-one" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.4] - 2024-03-21
+
+### Changed
+- Updated class names to warm pink color (#D53F8C)
+- Changed keywords (class, if, etc.) to black while keeping import/export in green
+
 ## [0.0.3] - 2024-03-21
 
 ### Added
