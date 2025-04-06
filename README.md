@@ -28,13 +28,13 @@ code --install-extension chapter-one-0.0.5.vsix
 | Element                  | Color(s)                 | Aesthetic Name                  |
 |--------------------------|--------------------------|---------------------------------|
 | Primary Text             | `#2C1810`                | Soft Dark Chocolate             |
-| Keywords (`if`, `const`) | `#C53030`                | Confident Red                   |
-| Types & Interfaces       | `#3B82F6`                | Smart Blue                      |
-| Functions                | `#0B6E4F`                | Thoughtful Green                |
-| Comments                 | `#5B7263`                | Calm Forest Notes               |
-| UI Elements              | `#9C4221`                | Vintage Terracotta              |
-| Backgrounds              | `#EAD7C4`, `#F2C3AC`     | E-reader Beige & Soft Blush     |
-
+| Keywords & Controls      | `#8e1e2c`                | Deep Rose                       |
+| Types & Interfaces       | `#3e6355`, `#4e625c`     | Forest Sage                     |
+| Functions & Methods      | `#7a3e9d`, `#3366cc`     | Royal Violet & Ocean Blue       |
+| Comments                 | `#6A7680`                | Misty Gray                      |
+| Strings                  | `#a34725`                | Warm Terracotta                 |
+| UI Elements              | `#e136a0`                | Sweet Pink                      |
+| Backgrounds              | `#ebd6bf`, `#f1e2d1`     | Parchment & Soft Cream          |
 ```
 
 ## 💌 Contributing

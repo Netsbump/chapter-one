@@ -4,6 +4,13 @@ All notable changes to the "chapter-one" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.0] - 2024-04-06
+
+### Changed
+- Fine-tuned color palette for optimal readability and aesthetics
+- Polished UI elements for a more cohesive visual experience
+- Optimized contrast ratios throughout the theme
+
 ## [0.0.5] - 2025-04-06
 
 ### Changed
