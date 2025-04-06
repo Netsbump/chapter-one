@@ -1,12 +1,12 @@
 {
   "name": "chapter-one",
   "displayName": "Chapter One",
-  "description": "A sepia-toned light theme for Visual Studio Code",
-  "version": "0.0.4",
+  "description": "A cozy light theme for Visual Studio Code — rose-colored glasses included.",
+  "version": "0.0.5",
   "publisher": "nenets",
-  "icon": "images/chapter-one-logo.png",
+  "icon": "images/logo-chapter-one.png",
   "galleryBanner": {
-    "color": "#EAD7C4",
+    "color": "#f2c4cb",
     "theme": "light"
   },
   "preview": true,
@@ -34,7 +34,15 @@
         "uiTheme": "vs",
         "path": "./themes/Chapter One-color-theme.json"
       }
-    ]
+    ], 
+    "configurationDefaults": {
+      "[Chapter One]": {
+        "editor.fontFamily": "JetBrains Mono, monospace",
+        "editor.fontLigatures": true,
+        "editor.fontSize": 14,
+        "editor.lineHeight": 22
+      }
+    }
   },
   "license": "MIT"
 }
