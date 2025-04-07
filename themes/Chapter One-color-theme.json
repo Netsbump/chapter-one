@@ -297,7 +297,7 @@
 				"meta.brace"
 			],
 			"settings": {
-				"foreground": "#1C1917"
+				"foreground": "#1c0810"
 			}
 		},
 		{
@@ -310,16 +310,28 @@
 			}
 		},
 		{
-			"name": "Operators",
+			"name": "Keyword: new",
+			"scope": "keyword.other.new.ts",
+			"settings": {
+			  "foreground": "#1c0810",
+			  "fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Operators: ! and ?",
 			"scope": [
-				"keyword.operator",
-				"keyword.operator.arithmetic",
-				"keyword.operator.logical",
-				"keyword.operator.assignment"
+			  "keyword.operator.optional.ts",
+			  "keyword.operator.logical.ts"
 			],
 			"settings": {
-				"foreground": "#2C1810",
-				"fontStyle": "bold"
+			  "foreground": "#1c0810",
+			}
+		},
+		{
+			"name": "Punctuation: ;",
+			"scope": "punctuation.terminator.statement.ts",
+			"settings": {
+			  "foreground": "#1c0810",
 			}
 		},
 		{

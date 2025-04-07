@@ -1,19 +1,20 @@
-# Change Log
+# Chapter One Changelog
 
-All notable changes to the "chapter-one" extension will be documented in this file.
+## 1.0.1 - (April 07, 2025)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Updated README with new installation instructions and color palette visuals
+- Revised changelog format for clarity and consistency
+- Updated license to reflect new copyright holder
+- Removed bold styling from punctuation marks ('?', ';', '!') and the word 'new' for improved readability
 
-## [1.0.0] - 2024-04-06
+## 1.0.0 - (April 06,2025)
 
-### Changed
 - Fine-tuned color palette for optimal readability and aesthetics
 - Polished UI elements for a more cohesive visual experience
 - Optimized contrast ratios throughout the theme
 
-## [0.0.5] - 2025-04-06
+## 0.0.5 - (April 06,2025)
 
-### Changed
 - Major UI rework to improve interface contrast and visual structure
 - Refined editor background for a slightly darker parchment tone (`#ebd6bf`)
 - Enhanced tab, terminal, and sidebar contrast to better delimit editor zones
@@ -21,42 +22,34 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Topbar and status bar redesigned with soft pinks for a cohesive cozy style
 - Custom border colors introduced to separate UI panels without harsh contrast
 - New theme logo: a soft pink flower meets digital diary
-
-### Added
 - Touches of rose and violet throughout the interface for a unique identity
 - New pink & violet bracket highlights for improved code parsing
 - JSX and decorator color differentiation
-- Italic styling for chained object properties (`data.`, `athlete.`, etc.)
+- Italic styling for chained object properties
 - Violet styling for class methods to distinguish them from regular functions
 
-## [0.0.4] - 2024-04-05
+## 0.0.4 - (April 05,2025)
 
-### Changed
 - Updated class names to warm pink color (#D53F8C)
 - Changed keywords (class, if, etc.) to black while keeping import/export in green
 
-## [0.0.3] - 2024-04-05
+## 0.0.3 - (April 05,2025)
 
-### Added
 - Theme logo and marketplace banner
 - Gallery preview settings
-
-### Changed
 - Updated VSCode engine compatibility to support older versions (^1.80.0)
 - Added support for Cursor editor
 
-## [0.0.2] - 2024-04-04
+## 0.0.2 - (April 04,2025)
 
-### Added
 - Comprehensive README with detailed theme features
 - Color palette documentation
 - Installation instructions
 - Contributing guidelines
 - License information
 
-## [0.0.1] - 2024-04-04
+## 0.0.1 - (April 04,2025)
 
-### Added
 - Initial release
 - Warm, sepia-toned light theme
 - Custom UI elements styling
