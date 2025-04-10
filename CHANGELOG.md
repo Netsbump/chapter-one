@@ -1,5 +1,9 @@
 # Chapter One Changelog
 
+## 1.0.2 - (April 10k, 2025)
+
+- Updated synthax colors 
+
 ## 1.0.1 - (April 07, 2025)
 
 - Updated README with new installation instructions and color palette visuals

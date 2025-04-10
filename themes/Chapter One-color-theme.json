@@ -169,10 +169,11 @@
 			  //import, export, from
 			  "keyword.control.import",
 			  "keyword.control.export",
-			  "keyword.control.from"
+			  "keyword.control.from",
+			  "keyword.operator.expression.typeof.ts"
 			],
 			"settings": {
-			  "foreground": "#8e1e2c",
+			  "foreground": "#bb0000",
 			  "fontStyle": "italic"
 			}
 		},
@@ -200,7 +201,7 @@
 				"entity.name.type.class",
 			],
 			"settings": {
-				"foreground": "#b05361",
+				"foreground": "#ff53b6",
 			}
 		},
 		{
@@ -209,7 +210,7 @@
     			"meta.class.ts meta.method.declaration.ts entity.name.function.ts"
   			],
 			"settings": {
-    			"foreground": "#3366cc",
+    			"foreground": "#039fc1",
 			}
 		},
 		{
@@ -222,15 +223,21 @@
 				"foreground": "#7a3e9d",
 			}
 		},
-		{ "name": "Decorators",
+		{ "name": "@ Decorators",
           "scope": [
-			"meta.decorator.ts meta.function-call.ts entity.name.function.ts",
 			"punctuation.decorator",
 			"meta.decorator.ts meta.brace.round.ts"
 		  ], 
 		  "settings": {
-			"foreground": "#8B5E13",
-			"fontStyle": "italic"
+			"foreground": "#1c0810",
+		  }
+		},
+		{ "name": "Decorators",
+          "scope": [
+			"meta.decorator.ts meta.function-call.ts entity.name.function.ts",
+		  ], 
+		  "settings": {
+			"foreground": "#039fc1",
 		  }
 		},
 		{
@@ -241,7 +248,16 @@
 			  "support.type.property-name"
 			],
 			"settings": {
-			  "foreground": "#8e1e2c"
+			  "foreground": "#1c0810"
+			}
+		},
+		{
+			"name": "Separation key value",
+			"scope": [
+				"punctuation.separator.key-value.ts"
+			],
+			"settings": {
+				"foreground": "#bb0000",
 			}
 		},
 		{
@@ -249,10 +265,13 @@
 			"scope": [
 				"string",
 				"string.quoted.single",
-				"string.quoted.double"
+				"string.quoted.double",
+				"string.quoted.single.ts",
+				"punctuation.definition.string.begin.ts",
+				"punctuation.definition.string.end.ts"
 			],
 			"settings": {
-				"foreground": "#a34725"
+				"foreground": "#da7100"
 			}
 		},
 		{ 
@@ -273,7 +292,7 @@
 			  "support.variable.property.readwrite"
 			],
 			"settings": {
-			  "foreground": "#3e6355",
+			  "foreground": "#05a02c",
 			  "fontStyle": "italic"
 			}
 		},
@@ -311,10 +330,13 @@
 		},
 		{
 			"name": "Keyword: new",
-			"scope": "keyword.other.new.ts",
+			"scope": [
+				"keyword.operator.new.ts",
+				"keyword.operator.new.tsx",
+				"new.expr.ts"
+			],
 			"settings": {
-			  "foreground": "#1c0810",
-			  "fontStyle": "italic"
+			  "foreground": "#bb0000",
 			}
 		},
 		{
