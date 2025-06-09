@@ -2,7 +2,7 @@
   "name": "chapter-one",
   "displayName": "Chapter One",
   "description": "A cozy light theme for Visual Studio Code — rose-colored glasses included.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "nenets",
   "icon": "images/logo-chapter-one.png",
   "galleryBanner": {

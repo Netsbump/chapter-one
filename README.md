@@ -23,7 +23,7 @@ Inspired by notebooks, e-readers, and the joy of starting something new.
 
 | Scope                | Aesthetic Name      | HEX        | RGB                  |
 |----------------------|---------------------|------------|----------------------|
-| Background           | Parchment           | <div style="background-color: #ebd6bf; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #ebd6bf    | rgb(235, 214, 191) |
+| Background           | Parchment           | <div style="background-color: #EFDECB; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #EFDECB    | rgb(239, 222, 203) |
 | Foreground           | Soft Dark Chocolate | <div style="background-color: #2C1810; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #2C1810    | rgb(44, 24, 16)    |
 | Comment              | Misty Gray          | <div style="background-color: #6A7680; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6A7680    | rgb(106, 118, 128) |
 | Keyword              | Deep Rose           | <div style="background-color: #8e1e2c; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #8e1e2c    | rgb(142, 30, 44)   |
@@ -34,7 +34,7 @@ Inspired by notebooks, e-readers, and the joy of starting something new.
 | Constant             | Forest Sage         | <div style="background-color: #3e6355; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #3e6355    | rgb(62, 99, 85)    |
 | Markup Tag           | Sweet Pink          | <div style="background-color: #e136a0; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #e136a0    | rgb(225, 54, 160)  |
 | Markup Attribute     | Soft Cream          | <div style="background-color: #ebd6bf; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #ebd6bf    | rgb(235, 214, 191) |
-| Class/Type/Interface | Forest Sage         | <div style="background-color: #3e6355; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #3e6355    | rgb(62, 99, 85)    |
+| Class/Type/Interface | Royal Violet        | <div style="background-color: #7a3e9d; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #7a3e9d    | rgb(122, 62, 157)  |
 
 ## 📸 Screenshots
 

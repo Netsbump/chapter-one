@@ -1,6 +1,14 @@
 # Chapter One Changelog
 
-## 1.0.2 - (April 10k, 2025)
+## 1.0.3 - (June 09, 2025)
+
+- Updated background editor and terminal colors
+- Updated bracket colors to black
+- Updated purple function colors
+- Changed pink to purple for class name color
+
+
+## 1.0.2 - (April 10, 2025)
 
 - Updated synthax colors 
 
