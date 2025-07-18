@@ -2,7 +2,7 @@
 	"name": "Chapter One",
 	"colors": {
 	// 📝 ÉDITEUR PRINCIPAL
-	"editor.background": "#EFDECB",                     // Fond général de l’éditeur de code
+	"editor.background": "#f1e2d1",                     // Fond général de l’éditeur de code
 	"editor.foreground": "#2C1810",                     // Couleur du texte par défaut dans l’éditeur
 	"editor.lineHighlightBackground": "#e6cfb6",        // Fond de la ligne où se trouve le curseur
 	"editor.selectionBackground": "#d4c4b7",            // Fond de la sélection (quand tu sélectionnes du texte)
@@ -40,7 +40,7 @@
 
 	
 	// ⚙️ PANELS (au-dessus du terminal)
-	"panel.background": "#EFDECB",               // Fond général du panneau (output, terminal, etc.)
+	"panel.background": "#f1e2d1",               // Fond général du panneau (output, terminal, etc.)
 	"panel.border": "#e136a0",                   // Bordure autour du panneau
 	"panelInput.border": "#8b6b43",              // Bordure des inputs dans le panneau (ex: search)
 
@@ -53,13 +53,13 @@
 
 
 	// 🧭 TERMINAL
-	"terminal.background": "#EFDECB",
+	"terminal.background": "#f1e2d1",               // Fond général du terminal
 	"terminal.foreground": "#2c1810",
 	"terminalCursor.background": "#2c1810",
 	"terminalCursor.foreground": "#2c1810",
 
-	// 🧱 BARRE LATERALE (explorer)
-	"sideBar.background": "#f1e2d1",                    // Fond général de la sidebar (explorer)
+	// 🧱 BARRE LATERALE (explorer)                 
+	"sideBar.background": "#EFDECB",                   // Fond général de la sidebar (explorer)
 	"sideBar.foreground": "#422A1C",                   // Couleur du texte par défaut (noms des dossiers/fichiers)
 	"scrollbarSlider.background": "#d4b3aa99",         // Couleur de la scrollbar (état normal)
 	"scrollbarSlider.hoverBackground": "#d4b3aacc",    // Couleur de la scrollbar (au survol)
@@ -152,6 +152,15 @@
 			"settings": {
 				"foreground": "#1c0810",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Primitive Types",
+			"scope": [
+			  "support.type.primitive.ts"
+			],
+			"settings": {
+			  "foreground": "#db8161"
 			}
 		},
 		{
@@ -271,7 +280,7 @@
 				"punctuation.definition.string.end.ts"
 			],
 			"settings": {
-				"foreground": "#da7100"
+				"foreground": "#05a02c"
 			}
 		},
 		{ 
@@ -292,8 +301,17 @@
 			  "support.variable.property.readwrite"
 			],
 			"settings": {
-			  "foreground": "#05a02c",
+			  "foreground": "#1c0810",
 			  "fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Object Chain Properties",
+			"scope": [
+			  "variable.other.object.property.ts"
+			],
+			"settings": {
+			  "foreground": "#5a7b8c"
 			}
 		},
 		{
@@ -363,7 +381,7 @@
 			  "entity.name.tag.tsx"
 			],
 			"settings": {
-			  "foreground": "#107C10"
+			  "foreground": "#665544"
 			}
 		},
 		{
@@ -373,7 +391,18 @@
 			  "entity.other.attribute-name.tsx"
 			],
 			"settings": {
-			  "foreground": "#aa4c39"
+			  "foreground": "#b08080",
+			  "fontStyle": "italic"
+			}
+		},
+		{
+			"name": "React Components",
+			"scope": [
+				"support.class.component.tsx", 
+				"support.class.component.jsx"
+			],
+			"settings": {
+			  "foreground": "#5a80b1",
 			}
 		},
 		{
@@ -382,7 +411,7 @@
 			  "meta.jsx.children"
 			],
 			"settings": {
-			  "foreground": "#2C1810" // ou plus foncé (#1C0810), selon contraste
+			  "foreground": "#2C1810" 
 			}
 		},
 		{
@@ -392,7 +421,7 @@
 			  "punctuation.section.embedded.end.jsx"
 			],
 			"settings": {
-			  "foreground": "#8E1E2C" // ton rouge principal
+			  "foreground": "#8E1E2C"
 			}
 		},
 		{

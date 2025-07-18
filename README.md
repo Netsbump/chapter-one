@@ -1,7 +1,6 @@
 # 🌸 Chapter One Theme
 
-A cozy light theme with soft paper tones and pink touches — like slipping into rose-colored glasses every time you open your editor.
-Inspired by notebooks, e-readers, and the joy of starting something new.
+A cozy light theme with soft paper tones and pink touches.
 
  ## ✨ Themes available
 
@@ -23,18 +22,24 @@ Inspired by notebooks, e-readers, and the joy of starting something new.
 
 | Scope                | Aesthetic Name      | HEX        | RGB                  |
 |----------------------|---------------------|------------|----------------------|
-| Background           | Parchment           | <div style="background-color: #EFDECB; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #EFDECB    | rgb(239, 222, 203) |
+| Background           | Parchment           | <div style="background-color: #f1e2d1; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #f1e2d1    | rgb(241, 226, 209) |
+| Sidebar Background   | Soft Parchment      | <div style="background-color: #EFDECB; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #EFDECB    | rgb(239, 222, 203) |
 | Foreground           | Soft Dark Chocolate | <div style="background-color: #2C1810; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #2C1810    | rgb(44, 24, 16)    |
 | Comment              | Misty Gray          | <div style="background-color: #6A7680; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6A7680    | rgb(106, 118, 128) |
-| Keyword              | Deep Rose           | <div style="background-color: #8e1e2c; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #8e1e2c    | rgb(142, 30, 44)   |
-| Function/Method      | Royal Violet        | <div style="background-color: #7a3e9d; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #7a3e9d    | rgb(122, 62, 157)  |
-| Property             | Forest Sage         | <div style="background-color: #4e625c; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #4e625c    | rgb(78, 98, 92)    |
-| String               | Warm Terracotta     | <div style="background-color: #a34725; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #a34725    | rgb(163, 71, 37)   |
-| Number               | Ocean Blue          | <div style="background-color: #3366cc; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #3366cc    | rgb(51, 102, 204)  |
-| Constant             | Forest Sage         | <div style="background-color: #3e6355; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #3e6355    | rgb(62, 99, 85)    |
-| Markup Tag           | Sweet Pink          | <div style="background-color: #e136a0; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #e136a0    | rgb(225, 54, 160)  |
-| Markup Attribute     | Soft Cream          | <div style="background-color: #ebd6bf; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #ebd6bf    | rgb(235, 214, 191) |
-| Class/Type/Interface | Royal Violet        | <div style="background-color: #7a3e9d; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #7a3e9d    | rgb(122, 62, 157)  |
+| Keyword              | Deep Rose           | <div style="background-color: #bb0000; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #bb0000    | rgb(187, 0, 0)     |
+| Function/Method      | Royal Violet        | <div style="background-color: #6D3091; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6D3091    | rgb(109, 48, 145)  |
+| Class/Type/Interface | Royal Violet        | <div style="background-color: #6D3091; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6D3091    | rgb(109, 48, 145)  |
+| Interface Names      | Sage Green          | <div style="background-color: #4e625c; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #4e625c    | rgb(78, 98, 92)    |
+| Type Names           | Forest Green        | <div style="background-color: #3e6355; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #3e6355    | rgb(62, 99, 85)    |
+| Primitive Types      | Warm Orange         | <div style="background-color: #db8161; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #db8161    | rgb(219, 129, 97)  |
+| String               | Fresh Green         | <div style="background-color: #05a02c; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #05a02c    | rgb(5, 160, 44)    |
+| Number               | Warm Brown          | <div style="background-color: #804200; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #804200    | rgb(128, 66, 0)    |
+| Variable/Object Root | Deep Chocolate      | <div style="background-color: #1c0810; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #1c0810    | rgb(28, 8, 16)     |
+| Object Properties    | Steel Blue          | <div style="background-color: #5a7b8c; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #5a7b8c    | rgb(90, 123, 140)  |
+| JSX Tags             | Warm Taupe          | <div style="background-color: #665544; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #665544    | rgb(102, 85, 68)   |
+| JSX Attributes       | Soft Rose           | <div style="background-color: #b08080; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #b08080    | rgb(176, 128, 128) |
+| React Components     | Ocean Blue          | <div style="background-color: #5a80b1; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #5a80b1    | rgb(90, 128, 177)  |
+| Accent Pink          | Sweet Pink          | <div style="background-color: #e136a0; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #e136a0    | rgb(225, 54, 160)  |
 
 ## 📸 Screenshots
 

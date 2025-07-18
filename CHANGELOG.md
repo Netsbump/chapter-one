@@ -1,5 +1,16 @@
 # Chapter One Changelog
 
+## 1.0.4 - (July 18, 2025)
+
+- Updated color palette with improved contrast and readability
+- Changed string colors from orange to fresh green (#05a02c)
+- Updated keyword colors to a more vibrant red (#bb0000)
+- Added distinct colors for primitive types (#db8161)
+- Enhanced object property chain colors
+- Improved JSX/React component styling with new color scheme
+- Switch background colors between editor and sidebar
+- Refined number colors to warm brown tones
+
 ## 1.0.3 - (June 09, 2025)
 
 - Updated background editor and terminal colors
