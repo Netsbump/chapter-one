@@ -1,5 +1,9 @@
 # Chapter One Changelog
 
+## 1.0.5 - (July 19, 2025)
+
+- Remove preview version tag
+
 ## 1.0.4 - (July 18, 2025)
 
 - Updated color palette with improved contrast and readability

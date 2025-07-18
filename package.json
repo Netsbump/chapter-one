@@ -2,14 +2,13 @@
   "name": "chapter-one",
   "displayName": "Chapter One",
   "description": "A cozy light theme with soft paper tones and pink touches.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "nenets",
   "icon": "images/logo-chapter-one.png",
   "galleryBanner": {
     "color": "#f2c4cb",
     "theme": "light"
   },
-  "preview": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/Netsbump/chapter-one"
