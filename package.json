@@ -2,7 +2,7 @@
   "name": "chapter-one",
   "displayName": "Chapter One",
   "description": "A cozy light theme with soft paper tones and pink touches.",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "publisher": "nenets",
   "icon": "images/logo-chapter-one.png",
   "galleryBanner": {
@@ -36,7 +36,7 @@
     ], 
     "configurationDefaults": {
       "[Chapter One]": {
-        "editor.fontFamily": "JetBrains Mono, monospace",
+        "editor.fontFamily": "Fira Code, monospace",
         "editor.fontLigatures": true,
         "editor.fontSize": 14,
         "editor.lineHeight": 22

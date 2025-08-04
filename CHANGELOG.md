@@ -1,5 +1,33 @@
 # Chapter One Changelog
 
+## 1.1.0 - (August 4, 2025)
+
+### 🎨 Major Color Palette Overhaul
+- **New primary colors**: Rose `#E91E63` for accents, Gray `#6A7680` for secondary elements
+- **Improved contrast**: Better readability with refined color combinations
+- **Unified color scheme**: Consistent beige `#f1e2d1` background throughout the interface
+
+### 🔧 UI Improvements
+- **Font change**: Switched from JetBrains Mono to Fira Code for better ligatures and readability
+- **Indentation guides**: gray `#d8c4b0` for inactive lines, darker `#6A7680` for active line
+- **Line highlighting**: Removed background highlight
+- **Tab styling**: Inverted active/inactive tab colors
+- **Scrollbars**: Unified gray color `#d8c4b0`
+
+### 🎯 Enhanced Syntax Highlighting
+- **Keywords**: Changed from orange to gray `#6A7680`
+- **Strings**: All quote types (single, double, backticks) now use blue `#0076c5`
+- **Comments**: Updated to orange `#CC7740`
+- **Brackets**: Unified gray `#6A7680`
+
+### 🎨 Color Palette Summary
+- **Primary**: Rose `#E91E63`
+- **Secondary**: Gray `#6A7680` for UI elements and secondary text
+- **Background**: Beige `#f1e2d1` 
+- **Text**: Dark brown `#2C1810` 
+- **Comments**: Orange `#CC7740` 
+- **Strings**: Blue `#0076c5` for all quote types
+
 ## 1.0.5 - (July 19, 2025)
 
 - Remove preview version tag

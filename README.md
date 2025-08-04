@@ -2,7 +2,7 @@
 
 A cozy light theme with soft paper tones and pink touches.
 
- ## ✨ Themes available
+## ✨ Themes available
 
 - Chapter One 
 
@@ -12,38 +12,59 @@ A cozy light theme with soft paper tones and pink touches.
 2. Search for [Chapter One](https://marketplace.visualstudio.com/items?itemName=nenets.chapter-one)
 3. Click **Install**
 4. Open the **Command Palette** with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>P</kbd>
-5. Select **Preferences: Color Theme** and choose an Chapter One.
+5. Select **Preferences: Color Theme** and choose Chapter One.
 
 ## ⚡ Getting full experience 
 
-1. Install [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono#installation) font and configure it in your editor
+1. Install [Fira Code](https://github.com/tonsky/FiraCode#installation) font for optimal ligatures and readability
+2. The theme automatically configures Fira Code as the default font
 
 ## 🎨 Color Palette
 
 | Scope                | Aesthetic Name      | HEX        | RGB                  |
 |----------------------|---------------------|------------|----------------------|
-| Background           | Parchment           | <div style="background-color: #f1e2d1; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #f1e2d1    | rgb(241, 226, 209) |
-| Sidebar Background   | Soft Parchment      | <div style="background-color: #EFDECB; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #EFDECB    | rgb(239, 222, 203) |
-| Foreground           | Soft Dark Chocolate | <div style="background-color: #2C1810; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #2C1810    | rgb(44, 24, 16)    |
-| Comment              | Misty Gray          | <div style="background-color: #6A7680; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6A7680    | rgb(106, 118, 128) |
-| Keyword              | Deep Rose           | <div style="background-color: #bb0000; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #bb0000    | rgb(187, 0, 0)     |
-| Function/Method      | Royal Violet        | <div style="background-color: #6D3091; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6D3091    | rgb(109, 48, 145)  |
-| Class/Type/Interface | Royal Violet        | <div style="background-color: #6D3091; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6D3091    | rgb(109, 48, 145)  |
-| Interface Names      | Sage Green          | <div style="background-color: #4e625c; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #4e625c    | rgb(78, 98, 92)    |
-| Type Names           | Forest Green        | <div style="background-color: #3e6355; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #3e6355    | rgb(62, 99, 85)    |
-| Primitive Types      | Warm Orange         | <div style="background-color: #db8161; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #db8161    | rgb(219, 129, 97)  |
-| String               | Fresh Green         | <div style="background-color: #05a02c; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #05a02c    | rgb(5, 160, 44)    |
-| Number               | Warm Brown          | <div style="background-color: #804200; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #804200    | rgb(128, 66, 0)    |
-| Variable/Object Root | Deep Chocolate      | <div style="background-color: #1c0810; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #1c0810    | rgb(28, 8, 16)     |
-| Object Properties    | Steel Blue          | <div style="background-color: #5a7b8c; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #5a7b8c    | rgb(90, 123, 140)  |
-| JSX Tags             | Warm Taupe          | <div style="background-color: #665544; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #665544    | rgb(102, 85, 68)   |
-| JSX Attributes       | Soft Rose           | <div style="background-color: #b08080; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #b08080    | rgb(176, 128, 128) |
-| React Components     | Ocean Blue          | <div style="background-color: #5a80b1; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #5a80b1    | rgb(90, 128, 177)  |
-| Accent Pink          | Sweet Pink          | <div style="background-color: #e136a0; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #e136a0    | rgb(225, 54, 160)  |
+| Background           | Warm Beige          | <div style="background-color: #f1e2d1; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #f1e2d1    | rgb(241, 226, 209) |
+| Foreground           | Deep Chocolate      | <div style="background-color: #2C1810; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #2C1810    | rgb(44, 24, 16)    |
+| Primary Accent       | Elegant Rose        | <div style="background-color: #E91E63; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #E91E63    | rgb(233, 30, 99)   |
+| Secondary Accent     | Sophisticated Gray  | <div style="background-color: #6A7680; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6A7680    | rgb(106, 118, 128) |
+| Keywords             | Refined Gray        | <div style="background-color: #6A7680; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6A7680    | rgb(106, 118, 128) |
+| Functions/Types      | Elegant Rose        | <div style="background-color: #E91E63; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #E91E63    | rgb(233, 30, 99)   |
+| Strings              | Ocean Blue          | <div style="background-color: #0076c5; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #0076c5    | rgb(0, 118, 197)   |
+| Comments             | Warm Orange         | <div style="background-color: #CC7740; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #CC7740    | rgb(204, 119, 64)  |
+| Variables            | Deep Chocolate      | <div style="background-color: #000000; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #000000    | rgb(0, 0, 0)       |
+| Brackets             | Sophisticated Gray  | <div style="background-color: #6A7680; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6A7680    | rgb(106, 118, 128) |
+| Indentation Guides   | Subtle Beige        | <div style="background-color: #d8c4b0; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #d8c4b0    | rgb(216, 196, 176) |
+| Line Numbers         | Sophisticated Gray  | <div style="background-color: #6A7680; width: 20px; height: 20px; display: inline-block; vertical-align: middle;"></div> #6A7680    | rgb(106, 118, 128) |
+
+## 🎯 Key Features
+
+### 🎨 Refined Color Palette
+- **Elegant Rose** (`#E91E63`) for primary accents and highlights
+- **Sophisticated Gray** (`#6A7680`) for secondary elements and UI
+- **Warm Beige** (`#f1e2d1`) background for consistent cozy feel
+- **Deep Chocolate** (`#2C1810`) text for optimal readability
+
+### 🔧 Enhanced UI
+- **Fira Code** as default font for better ligatures and readability
+- **Subtle indentation guides** with different colors for active/inactive lines
+- **Clean line highlighting** without background distraction
+- **Unified scrollbars** and consistent UI elements
+
+### 🎯 Improved Syntax Highlighting
+- **All string types** (single, double, backticks) in consistent blue
+- **Gray keywords** for better readability and less visual noise
+- **Rose accents** for functions, types, and important elements
+- **Orange comments** for clear distinction from code
+
+### 🧭 Interface Refinements
+- **Consistent beige backgrounds** throughout the interface
+- **Rose accents** in activity bar and status indicators
+- **Gray selections** in sidebar and panels
+- **Improved contrast** for better accessibility
 
 ## 📸 Screenshots
 
-In Comming
+Coming Soon
 
 ## 💌 Contributors
 
